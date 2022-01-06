@@ -1,3 +1,3 @@
 # Solidity
 
-Study of Smartcontract
+- Study of Smartcontract
